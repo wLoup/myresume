@@ -37,6 +37,6 @@
 - 2016~2018  College students competition of Badminton, the Third Place in national competition & the First Place in the city level competition 
 
 ## SKILLS
--proficiency in R/r markdown, also use Python、Html、VBA、SQL  
--some basic Machine Learning algorithms 
+- proficiency in R/r markdown, also use Python、Html、VBA、SQL  
+- some basic Machine Learning algorithms 
 
