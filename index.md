@@ -4,8 +4,7 @@
   - Email: wl19980902@163.com
 
 ## EDUCATION
-- 2016.9~now  
-  Major in economic statistics, Minor in mathematical statistics, Renmin university of China, Beiijng
+- 2016.9~now  Major in economic statistics, Minor in mathematical statistics, Renmin university of China, Beiijng
 - GPA :3.71/4.0, 3.81/4.0(WES)
 
 ## RESEARCH EXPERIENCE
@@ -38,7 +37,7 @@
 - 2016~2018  College students competition of Badminton, the Third Place in national competition & the First Place in the city level competition 
 
 ## SKILLS
-- Languages   English, Fluent (TOEFL 86 , CET-6 passed)
-- IT skills   proficiency in R, also use Python、Html、VBA、SQL  
-              some basic Machine Learning algorithms 
+- Languages   -English, Fluent (TOEFL 86 , CET-6 passed)
+- IT skills   -proficiency in R, also use Python、Html、VBA、SQL  
+              -some basic Machine Learning algorithms 
 
