@@ -16,7 +16,7 @@
   Fox School of university, Contract Research Organization, internship  
   - Tackled with financial and statistics tasks assigned by Dr.Z, used r markdown to modify format
   - learned for machine learning arithmetics
-- 2018.9~2018.11  
+- 2018.09~11  
   Development Research Center of the State Council, intern research assistant  
   - Macro Big Data project announced by government  
   - Searched for economy elements’ information in specific area, drew the outline of those economy element  
