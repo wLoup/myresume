@@ -8,14 +8,14 @@
 - GPA :3.71/4.0, 3.81/4.0(WES)
 
 ## RESEARCH EXPERIENCE
+- 2018.12~now  
+  Fox School of university, Contract Research Organization, internship  
+  - Tackled with financial and statistics tasks assigned by Dr.Z, used r markdown to modify format
+  - learned for machine learning arithmetics
 - 2018.11~now  
   LISA Lab, associate professor Xu Wei’s research group, research assistant  
   - National Research Fund Project, focus on risk analysis and intelligent pricing models
   - Crawling data from Web, analyzed and found out feature information
-- 2018.10~now  
-  Fox School of university, Contract Research Organization, internship  
-  - Tackled with financial and statistics tasks assigned by Dr.Z, used r markdown to modify format
-  - learned for machine learning arithmetics
 - 2018.09~11  
   Development Research Center of the State Council, intern research assistant  
   - Macro Big Data project announced by government  
@@ -30,13 +30,13 @@
 
 
 ## AWARDS
+- 2018.09    National college Mathematical contest in Modeling, Beijing, the First place
 - 2018.08    Global REIT investment challenge, the Third Place in final competition
-- 2018.09    National college Mathematical contest in Modeling, the First place in Beijing area
 - 2018.11    The 3nd Studying Scholarship, The 2nd Sports Scholarship
 - 2017.12    The 2nd Studying Scholarship, The 2nd Sports Scholarship
 - 2016~2018  College students competition of Badminton, the Third Place in national competition & the First Place in the city level competition 
 
 ## SKILLS
-- proficiency in R/r markdown, also use Python、Html、VBA、SQL  
+- proficiency in R/rmarkdown, also use Python、Html、VBA、SQL、Java  
 - some basic Machine Learning algorithms 
 
