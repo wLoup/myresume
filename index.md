@@ -10,7 +10,7 @@
 ## RESEARCH EXPERIENCE
 - 2018.12~now  
   Fox School of university, Contract Research Organization, internship  
-  - Tackled with financial and statistics tasks assigned by Dr.Z, used r markdown to modify format
+  - Tackled with financial and statistics tasks assigned by Dr.Z, used r markdown to finish
   - learned for machine learning arithmetics
 - 2018.11~now  
   LISA Lab, associate professor Xu Wei’s research group, research assistant  
