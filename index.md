@@ -13,8 +13,8 @@
   - Tackled with financial and statistics tasks assigned by Dr.Z, used r markdown to finish
   - learned for machine learning arithmetics
 - 2018.11~now  
-  LISA Lab, associate professor Xu Wei’s research group, research assistant  
-  - National Research Fund Project, decison making based on big data
+  LISA Lab, associate professor Wei Xu's group, research assistant  
+  - National Research Fund Projects, decison making based on big data
   - Focus on risk analysis and intelligent pricing models
 - 2018.09~11  
   Development Research Center of the State Council, intern research assistant  
