@@ -14,8 +14,8 @@
   - learned for machine learning arithmetics
 - 2018.11~now  
   LISA Lab, associate professor Xu Wei’s research group, research assistant  
-  - National Research Fund Project, focus on risk analysis and intelligent pricing models
-  - Crawling data from Web, analyzed and found out feature information
+  - National Research Fund Project, decison making based on big data
+  - Focus on risk analysis and intelligent pricing models
 - 2018.09~11  
   Development Research Center of the State Council, intern research assistant  
   - Macro Big Data project announced by government  
