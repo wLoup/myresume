@@ -5,17 +5,17 @@
 
 ## EDUCATION
 - 2016.9~now  Major in economic statistics, Minor in mathematical statistics, Renmin university of China, Beiijng
-- GPA :3.71/4.0, 3.81/4.0(WES)
+- GPA :3.7/4.0, 3.81/4.0(WES)
 
 ## RESEARCH EXPERIENCE
-- 2018.12~now  
-  Fox School of university, Contract Research Organization, internship  
-  - Tackled with financial and statistics tasks assigned by Dr.Z, used r markdown to finish
-  - learned for machine learning arithmetics
 - 2018.11~now  
   LISA Lab, associate professor Wei Xu's group, research assistant  
   - National Research Fund Projects, decison making based on big data
   - Focus on risk analysis and intelligent pricing models
+- 2018.12~2019.1  
+  Fox School of university, Contract Research Organization, internship  
+  - Tackled with financial and statistics tasks assigned by Dr.Z, used r markdown to finish
+  - learned for machine learning arithmetics
 - 2018.09~11  
   Development Research Center of the State Council, intern research assistant  
   - Macro Big Data project announced by government  
